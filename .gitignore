@@ -21,3 +21,4 @@ Recordings/
 *.opendb
 *.VC.db
 /Assets/_Recovery/
+/Assets/_Recovery.meta
